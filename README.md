@@ -4,14 +4,15 @@ this is `feipai` androdi client code,not include `setting` document,only a modul
 
 ***
 here is all that is required to get application working:<br>
-run this module,you need configuration `settings.gradle`file,like this:<br>
+run this module,you need configuration `settings.gradle`and`build.gradle`file,like this:<br>
+
+`settings.gradle`
 ```gradle
 include ':Feipai'
 ```
 `build.gradle`
 ```gradle
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
-
 buildscript {
     repositories {
         mavenCentral()
