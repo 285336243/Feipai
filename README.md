@@ -35,10 +35,10 @@ allprojects {
 　　<img src="art/execution.png" width="250px">
 - invoke baidu map and select tranfic page.<br>
   　<img src="art/map.png" width="250px">
-  　 <img src="art/select_trans.png" width="250px">
+  　　 <img src="art/select_trans.png" width="250px">
 - location and ruborder page<br>.
    　<img src="art/uplocation.png" width="250px">
 　 　<img src="art/rub_order.png" width="250px">
 - my and other page<br>
   　<img src="art/my.png" width="250px">
-  　　<img src="art/other.png" width="250px">
+  　　　<img src="art/other.png" width="250px">
